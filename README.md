@@ -12,7 +12,7 @@ Ajudar usuários a registrar receitas e despesas, acompanhar o saldo mensal e vi
 - Registro de receitas
 - Registro de despesas
 - Categorias de lançamentos
-- Dashboard com saldo, receitas e despesas do mês
+- Dashboard com saldo, receitas, despesas do mês e cofre
 - Histórico de lançamentos
 
 ## Telas planejadas
